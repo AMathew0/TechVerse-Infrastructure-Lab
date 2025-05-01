@@ -13,10 +13,10 @@ Set up the base environment, essential tools, and GitHub structure for the full 
 ### 🔧 1. Tools Downloaded & Installed
 | Tool | Version/Source | Purpose |
 |------|----------------|---------|
-| VirtualBox | 7.x | Hypervisor for VM setup |
+| VirtualBox | 7.1.4 | Hypervisor for VM setup |
 | Lubuntu ISO | 24.04 LTS | Lightweight Linux base VM |
 | Windows Server 2019 (Eval) | Microsoft Eval Center | Server environment simulation |
-| Windows 10 (Eval) | Microsoft Eval Center | Client simulation / user workstation |
+| Windows 10 Enterprise (Eval) | Microsoft Eval Center | Client simulation / user workstation |
 | PowerShell | Default in Windows | Git & file system setup |
 | Git | Latest stable | Version control & GitHub repo sync |
 | GitHub | Web Platform | Code/project documentation & sharing |
