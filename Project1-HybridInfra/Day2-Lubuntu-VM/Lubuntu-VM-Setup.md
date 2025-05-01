@@ -20,9 +20,3 @@
 - VM provisioning
 - Linux basic install
 - VirtualBox network configuration
-
-## Troubleshooting:
-- [Add any if encountered]
-
-## Screenshot:
-- [Optional - VM running]
